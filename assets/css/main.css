@@ -1843,13 +1843,13 @@ textarea {
 }
 .post__share > a svg {
   fill: var(--gray-1);
-  height: 0.888rem;
+  height: 1.2rem;
   margin: 0 auto;
   pointer-events: none;
   -webkit-transition: all 0.12s linear 0s;
   transition: all 0.12s linear 0s;
   vertical-align: text-bottom;
-  width: 0.888rem;
+  width: 2rem;
 }
 .post__nav {
   display: flex;
