@@ -1,0 +1,104 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GMINI Catalogue",
+    "description": "",
+    "home_page_url": "https://drazplay.github.io/demotwo",
+    "feed_url": "https://drazplay.github.io/demotwo/feed.json",
+    "user_comment": "",
+    "icon": "https://drazplay.github.io/demotwo/media/website/default.svg",
+    "author": {
+        "name": "Draz"
+    },
+    "items": [
+        {
+            "id": "https://drazplay.github.io/demotwo/gmini-custom-0001-6/",
+            "url": "https://drazplay.github.io/demotwo/gmini-custom-0001-6/",
+            "title": "GMINI Custom 0.1",
+            "summary": "Price 12,000 Min order 400 Total 4,800,000 Weight 0.001 g Purity 999.9 Fine Gold Logo No Custom landing page Yes",
+            "content_html": "<table class=\"align-left\" style=\"border-collapse: collapse; width: 100%; height: 340.516px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr style=\"height: 38.3594px;\">\n<td style=\"width: 39.5022%; height: 38.3594px; border-style: solid; border-width: 1px;\">Price</td>\n<td style=\"width: 60.4978%; height: 38.3594px; border-style: solid; border-width: 1px;\"><strong>12,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Min order</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>400</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Total</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>4,800,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Weight</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>0.001 g</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Purity</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>999.9 Fine Gold</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Logo</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>No</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Custom landing page</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>Yes</strong></td>\n</tr>\n</tbody>\n</table>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/Screenshot-2024-02-05-at-02.55.08.png\" data-size=\"890x1302\"><img loading=\"lazy\" src=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/Screenshot-2024-02-05-at-02.55.08-thumbnail.png\" alt=\"\" width=\"768\" height=\"1124\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/Screenshot-2024-02-05-at-02.55.08-2.png\" data-size=\"890x1302\"><img loading=\"lazy\" src=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/Screenshot-2024-02-05-at-02.55.08-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"1124\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/Screenshot-2024-02-05-at-02.55.08-3.png\" data-size=\"890x1302\"><img loading=\"lazy\" src=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/Screenshot-2024-02-05-at-02.55.08-3-thumbnail.png\" alt=\"\" width=\"768\" height=\"1124\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/smart_control__dsa6v8m1pp0m_large_2x.jpg\" data-size=\"760x580\"><img loading=\"lazy\" src=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/smart_control__dsa6v8m1pp0m_large_2x-thumbnail.jpg\" alt=\"\" width=\"760\" height=\"580\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/smart_control__dsa6v8m1pp0m_large_2x-2.jpg\" data-size=\"760x580\"><img loading=\"lazy\" src=\"https://drazplay.github.io/demotwo/media/posts/12/gallery/smart_control__dsa6v8m1pp0m_large_2x-2-thumbnail.jpg\" alt=\"\" width=\"760\" height=\"580\"></a></figure>\n</div></div>",
+            "image": "https://drazplay.github.io/demotwo/media/posts/12/Screenshot-2024-02-05-at-02.33.58.png",
+            "author": {
+                "name": "Draz"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T01:48:41+07:00",
+            "date_modified": "2024-02-05T03:18:35+07:00"
+        },
+        {
+            "id": "https://drazplay.github.io/demotwo/gmini-custom-0001-5/",
+            "url": "https://drazplay.github.io/demotwo/gmini-custom-0001-5/",
+            "title": "GMINI Custom 0.05",
+            "summary": "Price 12,000 Min order 400 Total 4,800,000 Weight 0.001 g Purity 999.9 Fine Gold Logo No Custom landing page Yes",
+            "content_html": "<table class=\"align-left\" style=\"border-collapse: collapse; width: 100%; height: 340.516px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr style=\"height: 38.3594px;\">\n<td style=\"width: 39.5022%; height: 38.3594px; border-style: solid; border-width: 1px;\">Price</td>\n<td style=\"width: 60.4978%; height: 38.3594px; border-style: solid; border-width: 1px;\"><strong>12,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Min order</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>400</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Total</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>4,800,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Weight</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>0.001 g</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Purity</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>999.9 Fine Gold</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Logo</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>No</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Custom landing page</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>Yes</strong></td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "image": "https://drazplay.github.io/demotwo/media/posts/11/Screenshot-2024-02-05-at-02.33.58.png",
+            "author": {
+                "name": "Draz"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T01:47:59+07:00",
+            "date_modified": "2024-02-05T02:35:15+07:00"
+        },
+        {
+            "id": "https://drazplay.github.io/demotwo/gmini-custom-0001-4/",
+            "url": "https://drazplay.github.io/demotwo/gmini-custom-0001-4/",
+            "title": "GMINI Custom 0.025",
+            "summary": "Price 12,000 Min order 400 Total 4,800,000 Weight 0.001 g Purity 999.9 Fine Gold Logo No Custom landing page Yes",
+            "content_html": "<table class=\"align-left\" style=\"border-collapse: collapse; width: 100%; height: 340.516px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr style=\"height: 38.3594px;\">\n<td style=\"width: 39.5022%; height: 38.3594px; border-style: solid; border-width: 1px;\">Price</td>\n<td style=\"width: 60.4978%; height: 38.3594px; border-style: solid; border-width: 1px;\"><strong>12,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Min order</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>400</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Total</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>4,800,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Weight</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>0.001 g</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Purity</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>999.9 Fine Gold</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Logo</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>No</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Custom landing page</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>Yes</strong></td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "image": "https://drazplay.github.io/demotwo/media/posts/10/Screenshot-2024-02-05-at-02.33.58.png",
+            "author": {
+                "name": "Draz"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T01:46:52+07:00",
+            "date_modified": "2024-02-05T02:35:26+07:00"
+        },
+        {
+            "id": "https://drazplay.github.io/demotwo/gmini-custom-0001-3/",
+            "url": "https://drazplay.github.io/demotwo/gmini-custom-0001-3/",
+            "title": "GMINI Custom 0.01",
+            "summary": "Price 12,000 Min order 400 Total 4,800,000 Weight 0.001 g Purity 999.9 Fine Gold Logo No Custom landing page Yes",
+            "content_html": "<table class=\"align-left\" style=\"border-collapse: collapse; width: 100%; height: 340.516px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr style=\"height: 38.3594px;\">\n<td style=\"width: 39.5022%; height: 38.3594px; border-style: solid; border-width: 1px;\">Price</td>\n<td style=\"width: 60.4978%; height: 38.3594px; border-style: solid; border-width: 1px;\"><strong>12,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Min order</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>400</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Total</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>4,800,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Weight</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>0.001 g</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Purity</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>999.9 Fine Gold</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Logo</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>No</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Custom landing page</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>Yes</strong></td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "image": "https://drazplay.github.io/demotwo/media/posts/9/Screenshot-2024-02-05-at-02.33.58.png",
+            "author": {
+                "name": "Draz"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T01:46:41+07:00",
+            "date_modified": "2024-02-05T02:35:37+07:00"
+        },
+        {
+            "id": "https://drazplay.github.io/demotwo/gmini-custom-0001-2/",
+            "url": "https://drazplay.github.io/demotwo/gmini-custom-0001-2/",
+            "title": "GMINI Custom 0.005",
+            "summary": "Price 12,000 Min order 400 Total 4,800,000 Weight 0.001 g Purity 999.9 Fine Gold Logo No Custom landing page Yes",
+            "content_html": "<table class=\"align-left\" style=\"border-collapse: collapse; width: 100%; height: 340.516px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr style=\"height: 38.3594px;\">\n<td style=\"width: 39.5022%; height: 38.3594px; border-style: solid; border-width: 1px;\">Price</td>\n<td style=\"width: 60.4978%; height: 38.3594px; border-style: solid; border-width: 1px;\"><strong>12,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Min order</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>400</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Total</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>4,800,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Weight</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>0.001 g</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Purity</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>999.9 Fine Gold</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Logo</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>No</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Custom landing page</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>Yes</strong></td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "image": "https://drazplay.github.io/demotwo/media/posts/8/Screenshot-2024-02-05-at-02.33.58.png",
+            "author": {
+                "name": "Draz"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T01:46:05+07:00",
+            "date_modified": "2024-02-05T02:35:48+07:00"
+        },
+        {
+            "id": "https://drazplay.github.io/demotwo/gmini-custom-0001/",
+            "url": "https://drazplay.github.io/demotwo/gmini-custom-0001/",
+            "title": "GMINI Custom 0.001",
+            "summary": "Price 12,000 Min order 400 Total 4,800,000 Weight 0.001 g Purity 999.9 Fine Gold Logo No Custom landing page Yes",
+            "content_html": "<table class=\"align-left\" style=\"border-collapse: collapse; width: 100%; height: 340.516px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr style=\"height: 38.3594px;\">\n<td style=\"width: 39.5022%; height: 38.3594px; border-style: solid; border-width: 1px;\">Price</td>\n<td style=\"width: 60.4978%; height: 38.3594px; border-style: solid; border-width: 1px;\"><strong>12,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Min order</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>400</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Total</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>4,800,000</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Weight</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>0.001 g</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Purity</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>999.9 Fine Gold</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Logo</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>No</strong></td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 39.5022%; height: 50.3594px; border-style: solid; border-width: 1px;\">Custom landing page</td>\n<td style=\"width: 60.4978%; height: 50.3594px; border-style: solid; border-width: 1px;\"><strong>Yes</strong></td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "image": "https://drazplay.github.io/demotwo/media/posts/7/Screenshot-2024-02-05-at-02.33.58.png",
+            "author": {
+                "name": "Draz"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-04T21:47:57+07:00",
+            "date_modified": "2024-02-05T02:35:59+07:00"
+        }
+    ]
+}
