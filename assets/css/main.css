@@ -688,7 +688,7 @@ textarea {
   }
 }
 .logo > img {
-  height: 44px;
+  height: 40px;
   -o-object-fit: contain;
      object-fit: contain;
   width: auto;
